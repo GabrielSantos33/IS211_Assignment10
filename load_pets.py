@@ -4,7 +4,7 @@
 # In[18]:
 
 
-# Gabriel Santos IS-211 10/17/2020
+# Gabriel Santos IS-211 10/31/2020
 import sqlite3 as lite
 import sys
 
