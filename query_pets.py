@@ -5,6 +5,9 @@
 
 
 # Gabriel Santos IS-211 10/31/2020
+
+import sqlite3 as lite
+import sys
 def print_names():
     conn = lite.connect('pets.db')
     answer = input("ID Number? Press '-1' to exit \n")
